@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/fwy7q5aqpjkk9ob7?svg=true)](https://ci.appveyor.com/project/Oleg50sev/order-card-delivery-autotest-patterns-task1)
+[![Build status](https://ci.appveyor.com/api/projects/status/hhge30ky4a1kjjw5?svg=true)](https://ci.appveyor.com/project/Oleg50sev/order-card-delivery-autotest-patterns)
